@@ -1,1 +1,1 @@
-My name is Veronica and I am currently a student learning computer programming. I have taken programming classes such as HTML, CSS, JavaScript, C#, Java, and Python. I have used SQL, VBA for MS Access, and VB.Net in my career. I plan to continue learning and growing as a developer.
+My name is Veronica and I have an Associate's degree in computer programming. I have taken programming classes such as HTML, CSS, JavaScript, C#, Java, and Python. I have used SQL, VBA for MS Access, and VB.Net in my career. I plan to continue learning and growing.
