@@ -1,1 +1,1 @@
-My name is Veronica and I have an Associate's degree in computer programming. I have taken programming classes such as HTML, CSS, JavaScript, C#, Java, and Python. I have used SQL, VBA for MS Access, and VB.Net in my career. I plan to continue learning and growing.
+My name is Veronica and I have Associates degrees in computer programming and Biology. I currently work as an environmental administrative assistant, but have worked as a programmer and as laboratory technician. I plan to continue learning and growing.
