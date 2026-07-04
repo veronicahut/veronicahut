@@ -1,1 +1,1 @@
-My name is Veronica and I have Associates degrees in computer programming and Biology. I currently work as an environmental administrative assistant, but have worked as a programmer and as laboratory technician. I plan to continue learning and growing.
+My name is Veronica and I have Associates degrees in Computer Programming and Biology. I currently work as an environmental administrative assistant. I previously have worked as a programmer and as a laboratory technician. I plan to continue learning and growing.
